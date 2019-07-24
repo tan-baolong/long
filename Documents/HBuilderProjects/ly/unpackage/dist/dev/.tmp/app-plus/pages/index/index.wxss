@@ -1,0 +1,97 @@
+
+.content{
+	font-family: 楷体;
+}
+.swiper-itpian image{
+	width: 750rpx;
+}
+.swiper{
+	height: 410rpx;
+	width: 750rpx;
+	background-size: 750rpx 400rpx;
+	/* margin: 0upx auto; */
+}
+.name{
+	height: 200rpx;
+	width: 700rpx;
+	margin: 0px auto;
+	border-bottom: 2px solid #F7F9FA;
+	/* line-height: 100upx; */
+}
+.name ._p{
+	font-size: 23px;
+	margin-bottom: 10rpx;
+}
+.name ._span{
+	font-size: 15px;
+	color: #808080;
+}
+.map{
+	font-size: 15px;
+	height: 80rpx;
+	line-height: 80rpx;
+	width: 700rpx;
+	margin: 0px auto;
+}
+.map ._a{
+	float: right;
+}
+.jdxx{
+	width: 700rpx;
+	margin: 0px auto;
+}
+.jdxx-1{
+	border-bottom: 2px solid #F7F9FA;
+	height: 80rpx;
+	line-height:80rpx;
+}
+.jdxx-2{
+	font-size: 15px;
+	height: 100rpx;
+	border-bottom: 2px solid #F7F9FA;
+}
+.jdxx-2 ._span{
+	color: #808080;
+	width: 130rpx;
+	float: left;
+	line-height: 40rpx;
+}
+.jdxx-2 ._p{
+	float: right;
+	width: 530rpx;	
+	line-height: 40rpx;		
+	font-size: 13px;
+}
+.mp{
+	width: 700rpx;
+	margin: 0px auto;
+}
+._ul{
+	list-style: none;
+}
+.yhpj{
+	width: 700rpx;
+	margin: 0px auto;
+}
+.mp-2{
+}
+.mp-1{
+	height: 250rpx;
+	/* background-color: #CCCCCC; */
+	border-bottom: 2px solid #F7F9FA;
+	
+	font-size: 16px;
+	margin-top: 20rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-flex-wrap: wrap;
+	    -ms-flex-wrap: wrap;
+	        flex-wrap: wrap;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+}
+
